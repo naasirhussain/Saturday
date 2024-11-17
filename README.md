@@ -1,0 +1,2 @@
+# Saturday
+Logical building operators
